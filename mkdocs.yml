@@ -1,4 +1,14 @@
 site_name: Zilverveld Documentatie
+site_url: https://docs.zilverveld.nl/
+site_description: 'Documentatie van Zilverveld'
+site_author: 'Zilverveld'
+
+# Copyright
+copyright: Copyright &copy; 2024 Zilverveld
+
+# Repository
+repo_url: https://github.com/MythicalLapis0181/zv-documentatie
+repo_name: MythicalLapis0181/zv-documentatie
 theme:
   name: material
   features:
