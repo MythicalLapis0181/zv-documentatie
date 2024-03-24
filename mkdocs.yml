@@ -11,6 +11,8 @@ repo_url: https://github.com/MythicalLapis0181/zv-documentatie
 repo_name: MythicalLapis0181/zv-documentatie
 theme:
   name: material
+  custom_dir: docs/overrides
+  language: nl
   features:
     - content.code.annotate
     - content.code.copy
@@ -38,3 +40,7 @@ theme:
 extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
   - javascripts/tables.js
+nav:
+  - Home: index.md
+  - APV: APV.md
+  - Wetboek: wetboek.md
