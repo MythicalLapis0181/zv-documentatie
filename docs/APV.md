@@ -240,7 +240,7 @@ een melding maken en de ambulancier snel te laten werken zodat het wapen direct 
 4. Bij een samenwerking mogen er maximaal 2 gangs met een limiet van 20 man samenwerken. Alleen personen met een rang van de (officiële groep) criminele organisatie kunnen in dit geval meedoen.
 5. Bij een zogeheten "politie inval" is het toegestaan voor de gangs om met maximaal 2 groepen en 25 man samen te mogen werken. Hier mogen dus 5 personen meer bij aanwezig zijn.
 6. Wanneer officiële organisaties een samenwerking aangaan met een andere officiële organisatie dan dient dit gemeld te worden volgens het format in het daarvoor aangemaakte kanaal in de Zilverveld Discord.
-7. Wanneer de leden in een server supported organisatie zodanig opvallen op een negatieve manier (denk aan meerdere malen combat gedrag in plaats van roleplay, teveel warnings, etc.), zal superadmin+ beslissen over een gepaste straf jegens deze organisatie. Bij criminele organisaties kan dit zelfs leiden tot een volledige opschorting van de groep.
+7. Wanneer de leden in een server supported organisatie zodanig opvallen op een negatieve manier (denk aan meerdere malen combat gedrag in plaats van roleplay, teveel warnings, etc.), zal senior admin+ beslissen over een gepaste straf jegens deze organisatie. Bij criminele organisaties kan dit zelfs leiden tot een volledige opschorting van de groep.
 
 ### Artikel 15 - Ontsnappen uit het cellencomplex
 
@@ -360,10 +360,6 @@ Onderstaande regels tellen alleen op Narcopolis
 
 ### Bijlage 1
 
-![bijlage-1](https://Zilverveld.nl/wp-content/uploads/2021/08/Schermafbeelding_2021-08-23_om_10.png)
-
-### Bijlage 2
-
 ```md
 Op [datum] heeft [Eigen groepsnaam] een samenwerking opgesteld met [Andere groepsnaam].
 De samenwerking is gestart om [tijdstip].
@@ -372,4 +368,4 @@ Het doel van deze samenwerking is [korte omschrijving van de samenwerking].
 ```
 
 ---------------------
-APV opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “Zilverveld”, opgetekend door Bram Mosterdfiets, te Zilverveld.
+APV opgesteld uit naam van het beheer, bedoeld voor het eiland, de gemeente en de stad “Zilverveld”, opgetekend door Cornelis Dijkstra, te Zilverveld.
