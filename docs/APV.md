@@ -356,16 +356,5 @@ Onderstaande regels tellen alleen op Narcopolis
 * Het is verboden een ambulancier of een medewerker van de ANWB te vermoorden of te ontvoeren bij een oproep of gebruik van hen.
 * Het is verboden om drugslocaties of wapens te verkopen via twitter, ook als je het hebt over "theeblaadjeslocaties", "broodmessen", "waterpistolen" en dergelijke.
 
-## Bijlages
-
-### Bijlage 1
-
-```md
-Op [datum] heeft [Eigen groepsnaam] een samenwerking opgesteld met [Andere groepsnaam].
-De samenwerking is gestart om [tijdstip].
-De samenwerking is geeindigd om [tijdstip].
-Het doel van deze samenwerking is [korte omschrijving van de samenwerking].
-```
-
 ---------------------
 APV opgesteld uit naam van het beheer, bedoeld voor het eiland, de gemeente en de stad “Zilverveld”, opgetekend door Cornelis Dijkstra, te Zilverveld.
