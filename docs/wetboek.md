@@ -154,8 +154,6 @@
 
 ## Titel I - Vermogensdelicten
 
-![Titel I]
-
 ### Artikel I-1 Diefstal (310 SR)
 
 1. Schuldig is een persoon die een goed, of voertuig, wegneemt zonder daarvoor toestemming of enig recht toe te hebben
@@ -256,8 +254,6 @@
 4. Wanneer uit onderzoek blijkt, volgend op de inbeslagname zoals bedoeld in lid 2, criminele herkomst aantoont, dan zal de in beslag genomen som vernietigd worden.
 
 ## Titel II - Geweldsdelicten
-
-![Titel II]
 
 ### Artikel II-1 Wederspannigheid/verzet (180 SR)
 
@@ -395,8 +391,6 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 | **Meerdere Veroordelingen**  | 70 maanden  |  | € 20000,-  |
 
 ## Titel III - Verkeersdelicten
-
-![Titel III]
 
 ### Artikel III-1 Verkeersovertredingen in algemene zin (5 WVW)
 
@@ -638,8 +632,6 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 ## Titel IV - Opiumwet
 
-![Titel IV]
-
 ### Artikel IV-1 Harddrugs (2 OW)
 
 1. Schuldig is een persoon die harddrugs vergaart, in bezit heeft, vervoert, of verkoopt.
@@ -788,8 +780,6 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 ## Titel V - Wet Wapens en Munitie
 
-![Titel V]
-
 ### Artikel V-1 Tasers (26 WWM)
 
 1. Strafbaar is een persoon die een stroomstootwapen voorhanden heeft, bij zich draagt, opgeslagen heeft in huis of in de laadruimte van zijn of haar vervoersmiddel.
@@ -897,8 +887,6 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 ## Titel VI - Wet op de Kansspelen
 
-![Titel VII]
-
 ### Artikel VI-1 Algemeen verbod (1 Wok)
 
 1. Schuldig is een persoon die zonder geldige vergunning een gelegenheid biedt om mee te dingen naar prijzen of geld, in de vorm van een kansspel.
@@ -948,8 +936,6 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 ## Titel VII - Uitsluitings- en strafverminderingsgronden
 
-![Titel VII]
-
 ### Artikel VII-1 Algemene Uitsluitingen (39-43 SR)
 
 1. Niet schuldig is een persoon die:
@@ -991,8 +977,6 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
     6. aandeel van de verdachte in het geheel, indien er sprake is van een grootschalige overtreding met meerdere partijen.
 
 ## Titel VIII - Overige
-
-![Titel VIII]
 
 ### Artikel VIII-1 Niet voldoen aan een bevel of vordering (184 SR)
 
