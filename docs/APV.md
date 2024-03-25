@@ -1,8 +1,7 @@
 # Algemene Plaatselijke Verordening Zilverveld
 
 ## Wetstechnische informatie
-
-| | |
+|  |  |
 |---|---|
 | Overheidsorganisatie      | Beheer Zilverveld |
 | Officiële naam regeling   | Algemene Plaatselijke Verordening Zilverveld|
