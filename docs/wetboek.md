@@ -1288,4 +1288,4 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 8. Indien er een afspraak gemaakt word in de zaak om geen bewijsstukken meer toe te voegen mag dit ook niet. Word dit wel gedaan mag dit gezien worden als een vormfout. Je hebt namelijk 24 uur de tijd om bewijs te verzamelen.
 
 ---------------------
-*Wetboek Zilverveld is opgesteld uit naam van de beheerders, bedoeld voor de gemeente en de stad “Zilverveld”, opgetekend door Bram Mosterdfiets, te Zilverveld.*
+*Wetboek Zilverveld is opgesteld uit naam van de beheerders, bedoeld voor de gemeente en de stad “Zilverveld”, opgetekend door Cornelis Dijkstra, te Zilverveld.*
