@@ -4,7 +4,7 @@ site_description: 'Documentatie van Zilverveld'
 site_author: 'Zilverveld'
 
 # Copyright
-copyright: Copyright &copy; 2024 Zilverveld
+copyright: Copyright &copy; 2024-2025 Zilverveld Roleplay
 
 # Repository
 repo_url: https://github.com/MythicalLapis0181/zv-documentatie
@@ -23,12 +23,15 @@ theme:
     - announce.dismiss
     - navigation.footer
     - navigation.indexes
+    - navigation.sections
     - navigation.tabs
     - navigation.top
     - navigation.tracking
     - search.highlight
     - search.share
     - search.suggest
+  hide:
+  - navigation
   palette:
     - scheme: default
       toggle:
