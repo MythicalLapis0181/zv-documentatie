@@ -1,3 +1,5 @@
+hide:
+  - navigation
 # Algemene Plaatselijke Verordening Zilverveld
 
 ## Wetstechnische informatie
