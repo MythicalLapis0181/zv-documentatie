@@ -46,6 +46,7 @@ nav:
   - Home: index.md
   - APV: APV.md
   - Wetboek: wetboek.md
+  - Discord Regels: discord.md
   
 markdown_extensions:
   - attr_list
