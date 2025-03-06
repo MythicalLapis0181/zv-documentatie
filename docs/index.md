@@ -2,8 +2,8 @@
 Welkom bij de officiële Zilverveld documentatie. Hier vind u alle belangrijke informatie omtrent Zilverveld Roleplay.
 
 ## Discord Servers
-| Server      | Beschrijving                         | Link                  |
-| ----------- | ------------------------------------ | --------------------- |
-| Main        | :material-check:     Fetch resource  | test                  |
-| Support     | :material-check-all: Update resource | test2                 |
-| Overheid    | :material-close:     Delete resource | test3                 |
+| Server      | Beschrijving                              | Link                          |
+| ----------- | ----------------------------------------- | ----------------------------- |
+| Main        | De belangrijkste discord.                 | https://discord.gg/zilverveld |
+| Service     | In deze server kunt u terecht voor hulp.  | test2                         |
+| Overheid    | Hier communiceert de overheid met elkaar. | test3                         |
