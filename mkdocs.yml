@@ -30,8 +30,6 @@ theme:
     - search.highlight
     - search.share
     - search.suggest
-  hide:
-  - navigation
   palette:
     - scheme: default
       toggle:
