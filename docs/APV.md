@@ -166,7 +166,11 @@ Categorie 4: Een tijdelijke verbanning van maximaal 7 dagen
 Categorie 5: Een tijdelijke verbanning van maximaal 30 dagen
 
 Categorie 6: Een tijdelijke verbanning van maximaal 90 dagen
+
 Categorie 7: Een tijdelijke verbanning van maximaal 365 dagen
+
 Categorie 8: Een permanente verbanning
+
 Categorie 9: Een permanente verbanning en een accountwipe
+
 15.2 Naarmate een speler vaker dezelfde overtreding maakt, wordt er automatisch opgeschaald naar een hogere categorie.
