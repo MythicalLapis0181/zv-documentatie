@@ -44,8 +44,8 @@ extra_javascript:
 
 markdown_extensions:
   - attr_list
-  - sane_lists
-  - md_in_html
+  - sane_lists      # Cruciaal voor correcte nummering
+  - md_in_html      # Nodig voor de wetboek-container
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
