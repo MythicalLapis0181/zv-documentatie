@@ -31,14 +31,10 @@ theme:
     - search.share
     - search.suggest
   palette:
-    - scheme: default
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: Licht
-    - scheme: slate
-      toggle:
-        icon: material/toggle-switch
-        name: Donker
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      accent: indigo
 extra_css:
   - stylesheets/wetboek.css
 extra_javascript:
