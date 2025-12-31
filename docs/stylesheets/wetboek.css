@@ -1,11 +1,11 @@
-/* --- OFFICIËLE WETBOEK LOOK --- */
+/* --- DE DEFINITIEVE WETBOEK STYLING --- */
 
 .wetboek-content {
-    font-family: "Georgia", serif !important;
+    font-family: "Segoe UI", Roboto, Helvetica, Arial, sans-serif !important;
     text-align: justify;
 }
 
-/* Blauwe Artikel Balken */
+/* Blauwe Artikel Balken (H2) */
 .md-typeset .wetboek-content h2 {
     background-color: rgba(77, 170, 252, 0.1) !important;
     color: #4daafc !important;
@@ -19,11 +19,12 @@
     display: block !important;
 }
 
-/* Reset alle lijsten */
-.wetboek-content ol {
+/* Verwijder alle standaard MkDocs bolletjes/cijfers */
+.wetboek-content ol, 
+.wetboek-content li {
     list-style: none !important;
-    padding-left: 0 !important;
     margin-left: 0 !important;
+    padding-left: 0 !important;
 }
 
 /* NIVEAU 1: Witte Nummers (1, 2, 3) */
@@ -38,6 +39,7 @@
     margin-bottom: 1.5em !important;
 }
 
+/* Plak het nummer alleen op niveau 1 */
 .wetboek-content > ol > li::before {
     content: counter(lid-counter) !important;
     position: absolute !important;
@@ -51,7 +53,7 @@
 /* NIVEAU 2: Blauwe Letters (a, b, c) */
 .wetboek-content ol li ol {
     counter-reset: sub-counter;
-    margin-top: 15px !important;
+    margin-top: 15px !important; /* Ruimte onder de hoofdtekst */
 }
 
 .wetboek-content ol li ol > li {
@@ -61,7 +63,7 @@
     margin-bottom: 0.8em !important;
 }
 
-/* Fix voor de "a. 1" overlap */
+/* De blauwe letter voor niveau 2 */
 .wetboek-content ol li ol > li::before {
     content: counter(sub-counter, lower-alpha) "." !important;
     position: absolute !important;
