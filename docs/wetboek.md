@@ -8,8 +8,8 @@
 
 2. In het tweede lid kunnen we sub-punten toevoegen:
 
-    a. Dit is een sub-item met een blauwe letter.
-    b. Gebruik altijd 4 spaties inspringing voor de 'a'.
+    a. Dit is een sub-item met een blauwe letter op een nieuwe regel.
+    b. Gebruik altijd 4 spaties (of 1 tab) inspringing.
     {: type="a"}
 
 ## Artikel 2 – Definities
