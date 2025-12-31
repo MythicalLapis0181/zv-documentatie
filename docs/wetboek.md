@@ -2,18 +2,41 @@
 
 <div class="wetboek-content" markdown>
 
-## Artikel 1 – Toepassing
+## Artikel I – Toepassing
 
-1. De tekst van het eerste lid komt hier te staan.
+1. Het wetboek van **Zilverveld** is van toepassing op het gehele grondgebied van de stad.
 
-2. In het tweede lid kunnen we sub-punten toevoegen:
+2. Aanvullend op alle beschreven gevallen in dit wetboek is het **Nederlands recht** van toepassing.
 
-    a. Dit is een sub-item met een blauwe letter op een nieuwe regel.
-    b. Gebruik altijd 4 spaties (of 1 tab) inspringing.
+## Artikel II – Geldigheid
+
+1. Bij verandering van wetgeving na het tijdstip waarop het feit is begaan, wordt voor de verdachte de **meest gunstige bepaling** toegepast.
+
+2. Minderjarigen worden binnen Zilverveld gelijkgesteld aan volwassenen. Het **jeugdstrafrecht is niet van toepassing**.
+
+## Artikel III – Strafbepaling
+
+1. Straffen zijn vastgesteld per artikel en kunnen bestaan uit:
+    * Officiële waarschuwingen
+    * Taakstraffen
+    * Gevangenisstraffen
+    * Inbeslagnames
+    * Geldboetes
+
+2. De maximale gevangenisstraf bedraagt **120 maanden**.
+
+    a. Overschrijding resulteert in een boeteverhoging van **€250 per extra maand**.
+    b. Het maximum van deze verhoging bedraagt **€30.000**.
     {: type="a"}
 
-## Artikel 2 – Definities
+## Artikel IV – Inbeslagnames
 
-1. Alle burgers worden gelijk behandeld.
+1. Goederen gebruikt bij een strafbaar feit kunnen in beslag worden genomen.
+
+    a. De keuze tot inbeslagname is ter beoordeling van de politie.
+    b. Verwerking geschiedt conform politierichtlijnen.
+    {: type="a"}
+
+2. Voertuigen kunnen maximaal **drie (3) dagen** worden vastgehouden voor onderzoek.
 
 </div>
