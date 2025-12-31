@@ -3,12 +3,8 @@ site_url: https://docs.zilverveld.nl/
 site_description: 'Documentatie van Zilverveld'
 site_author: 'Zilverveld'
 
-# Copyright
 copyright: Copyright &copy; 2024-2025 Zilverveld Roleplay
 
-# Repository
-repo_url: https://github.com/MythicalLapis0181/zv-documentatie
-repo_name: MythicalLapis0181/zv-documentatie
 theme:
   name: material
   custom_dir: docs/overrides
@@ -20,7 +16,6 @@ theme:
     - content.code.copy
     - content.tabs.link
     - header.autohide
-    - announce.dismiss
     - navigation.footer
     - navigation.indexes
     - navigation.sections
@@ -31,25 +26,32 @@ theme:
     - search.share
     - search.suggest
   palette:
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: teal
-      accent: indigo
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Licht
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Donker
+
 extra_css:
   - stylesheets/wetboek.css
+
 extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
   - javascripts/tables.js
+
+markdown_extensions:
+  - attr_list
+  - sane_lists
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
 nav:
   - Home: index.md
   - APV: APV.md
   - Wetboek: wetboek.md
   - Discord Regels: discord.md
-  
-markdown_extensions:
-  - attr_list
-  - sane_lists      # Voorkomt dat lijsten verspringen
-  - md_in_html      # Nodig voor de <div class="wetboek-content">
-  - pymdownx.emoji:
-      emoji_index: !!python/name:material.extensions.emoji.twemoji
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg
