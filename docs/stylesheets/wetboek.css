@@ -1,6 +1,11 @@
-/* --- OFFICIËLE WETBOEK LOOK ZILVERVELD --- */
+/* --- OFFICIËLE WETBOEK LOOK --- */
 
-/* 1. Artikel balken */
+.wetboek-content {
+    font-family: "Georgia", serif !important;
+    text-align: justify;
+}
+
+/* Blauwe Artikel Balken */
 .md-typeset .wetboek-content h2 {
     background-color: rgba(77, 170, 252, 0.1) !important;
     color: #4daafc !important;
@@ -14,64 +19,55 @@
     display: block !important;
 }
 
-/* 2. Reset de standaard lijsten binnen de wetboek-content */
+/* Reset alle lijsten */
 .wetboek-content ol {
     list-style: none !important;
     padding-left: 0 !important;
     margin-left: 0 !important;
 }
 
-/* 3. NIVEAU 1: De grote witte nummers (1, 2, 3) */
+/* NIVEAU 1: Witte Nummers (1, 2, 3) */
 .wetboek-content > ol {
     counter-reset: lid-counter;
 }
 
 .wetboek-content > ol > li {
     counter-increment: lid-counter;
-    position: relative;
-    padding-left: 3.5em !important; /* Ruimte maken voor het nummer */
+    position: relative !important;
+    padding-left: 3.5em !important;
     margin-bottom: 1.5em !important;
-    display: block !important;
 }
 
-/* Het nummer wordt alleen op niveau 1 geplaatst door de '>' selector */
 .wetboek-content > ol > li::before {
     content: counter(lid-counter) !important;
-    position: absolute;
-    left: 0;
+    position: absolute !important;
+    left: 0 !important;
     font-weight: 900 !important;
     color: #ffffff !important;
-    font-size: 1.2rem;
-    width: 2.5em;
-    text-align: left;
+    font-size: 1.2rem !important;
+    width: 2.5em !important;
 }
 
-/* 4. NIVEAU 2: De blauwe letters (a, b, c) */
+/* NIVEAU 2: Blauwe Letters (a, b, c) */
 .wetboek-content ol li ol {
     counter-reset: sub-counter;
-    margin-top: 15px !important; /* Ruimte tussen hoofdtekst en sub-items */
+    margin-top: 15px !important;
 }
 
 .wetboek-content ol li ol > li {
     counter-increment: sub-counter;
-    position: relative;
-    padding-left: 3em !important; /* Inspringing voor sub-items */
+    position: relative !important;
+    padding-left: 3em !important;
     margin-bottom: 0.8em !important;
 }
 
-/* De blauwe letters op het tweede niveau */
+/* Fix voor de "a. 1" overlap */
 .wetboek-content ol li ol > li::before {
     content: counter(sub-counter, lower-alpha) "." !important;
-    position: absolute;
-    left: 0;
+    position: absolute !important;
+    left: 0 !important;
     color: #4daafc !important;
     font-weight: 700 !important;
-    font-size: 1rem;
+    font-size: 1rem !important;
     width: 2em;
-}
-
-/* Lettertype en tekstuitlijning */
-.wetboek-content {
-    font-family: "Georgia", serif !important;
-    text-align: justify;
 }
