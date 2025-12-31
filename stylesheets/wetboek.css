@@ -1,0 +1,75 @@
+/* --- DE DEFINITIEVE WETBOEK STYLING --- */
+
+.wetboek-content {
+    font-family: "Segoe UI", Roboto, Helvetica, Arial, sans-serif !important;
+    text-align: justify;
+}
+
+/* Blauwe Artikel Balken (H2) */
+.md-typeset .wetboek-content h2 {
+    background-color: rgba(77, 170, 252, 0.1) !important;
+    color: #4daafc !important;
+    text-transform: none !important;
+    padding: 12px 20px !important;
+    border-radius: 4px !important;
+    font-size: 1.15rem !important;
+    font-weight: 700 !important;
+    margin-top: 2.5em !important;
+    border-bottom: 2px solid #4daafc !important;
+    display: block !important;
+}
+
+/* Verwijder alle standaard MkDocs bolletjes/cijfers */
+.wetboek-content ol, 
+.wetboek-content li {
+    list-style: none !important;
+    margin-left: 0 !important;
+    padding-left: 0 !important;
+}
+
+/* NIVEAU 1: Witte Nummers (1, 2, 3) */
+.wetboek-content > ol {
+    counter-reset: lid-counter;
+}
+
+.wetboek-content > ol > li {
+    counter-increment: lid-counter;
+    position: relative !important;
+    padding-left: 3.5em !important;
+    margin-bottom: 1.5em !important;
+}
+
+/* Plak het nummer alleen op niveau 1 */
+.wetboek-content > ol > li::before {
+    content: counter(lid-counter) !important;
+    position: absolute !important;
+    left: 0 !important;
+    font-weight: 900 !important;
+    color: #ffffff !important;
+    font-size: 1.2rem !important;
+    width: 2.5em !important;
+}
+
+/* NIVEAU 2: Blauwe Letters (a, b, c) */
+.wetboek-content ol li ol {
+    counter-reset: sub-counter;
+    margin-top: 15px !important; /* Ruimte onder de hoofdtekst */
+}
+
+.wetboek-content ol li ol > li {
+    counter-increment: sub-counter;
+    position: relative !important;
+    padding-left: 3em !important;
+    margin-bottom: 0.8em !important;
+}
+
+/* De blauwe letter voor niveau 2 */
+.wetboek-content ol li ol > li::before {
+    content: counter(sub-counter, lower-alpha) "." !important;
+    position: absolute !important;
+    left: 0 !important;
+    color: #4daafc !important;
+    font-weight: 700 !important;
+    font-size: 1rem !important;
+    width: 2em;
+}
