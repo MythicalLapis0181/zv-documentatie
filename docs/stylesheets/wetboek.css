@@ -1,9 +1,9 @@
-/* --- OFFICIËLE WETBOEK STYLING ZILVERVELD --- */
+/* --- OFFICIËLE WETBOEK LOOK ZILVERVELD --- */
 
-/* 1. De Blauwe Artikel-balken */
+/* 1. Artikel balken */
 .md-typeset .wetboek-content h2 {
-    background-color: rgba(77, 170, 252, 0.1) !important; /* Subtiele blauwe gloed */
-    color: #4daafc !important;                            /* Wetten.nl Blauw */
+    background-color: rgba(77, 170, 252, 0.1) !important;
+    color: #4daafc !important;
     text-transform: none !important;
     padding: 12px 20px !important;
     border-radius: 4px !important;
@@ -14,13 +14,13 @@
     display: block !important;
 }
 
-/* 2. Reset de standaard lijst-styling */
+/* 2. Reset lijsten */
 .wetboek-content ol {
     list-style: none !important;
     padding-left: 0 !important;
 }
 
-/* 3. NIVEAU 1: De grote witte Lid-nummers (1, 2, 3) */
+/* 3. NIVEAU 1: Grote witte nummers (1, 2, 3) */
 .wetboek-content > ol {
     counter-reset: lid-counter;
 }
@@ -30,22 +30,21 @@
     position: relative;
     padding-left: 3.5em !important;
     margin-bottom: 1.5em !important;
-    color: var(--md-default-fg-color);
 }
 
-/* Forceer het nummer alleen op het hoogste niveau */
+/* Forceer het nummer ALLEEN op het hoogste niveau */
 .wetboek-content > ol > li::before {
     content: counter(lid-counter) !important;
     position: absolute;
     left: 0;
     font-weight: 900 !important;
-    color: #ffffff !important; /* Wit cijfer */
+    color: #ffffff !important;
     font-size: 1.2rem;
     width: 2.5em;
     text-align: left;
 }
 
-/* 4. NIVEAU 2: De blauwe letters (a, b, c) */
+/* 4. NIVEAU 2: Blauwe letters (a, b, c) */
 .wetboek-content ol li ol {
     counter-reset: sub-counter;
     margin-top: 10px !important;
@@ -58,7 +57,7 @@
     margin-bottom: 0.8em !important;
 }
 
-/* Fix voor de overlap: wees specifiek voor het tweede niveau */
+/* Fix voor overlap: Verwijder de "1" en zet de blauwe letter neer */
 .wetboek-content ol li ol > li::before {
     content: counter(sub-counter, lower-alpha) "." !important;
     position: absolute;
@@ -69,7 +68,7 @@
     width: 2em;
 }
 
-/* Lettertype voor het hele wetboek */
+/* Lettertype en uitlijning */
 .wetboek-content {
     font-family: "Georgia", serif !important;
     text-align: justify;
